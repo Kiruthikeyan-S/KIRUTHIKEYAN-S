@@ -6,7 +6,7 @@
 
 I'm **S.Kiruthi Keyan**, a passionate frontend developer and UI enthusiast who loves building smooth, interactive web experiences.
 
-- 🌱 Currently learning **Next.js, TypeScript, Figma advanced prototyping, and GSAP animations**
+- 🌱 Currently learning **Next.js, TypeScript, Figma advanced prototyping**
 - 👯 Looking to collaborate on **open-source React & Vue projects, and UI/UX design systems**
 - 👨‍💻 All my projects are at [github.com/kiruthik1811](https://github.com/kiruthik1811)
 - 💬 Ask me about **React, Vue, GSAP, UI/UX design, and Figma**
